@@ -61,7 +61,7 @@ exibido nesta árvore resumida para manter a documentação mais limpa.
 
 ## 🔗 Link do Site Hospedado
 
-O site será publicado em: **https://marcelooll.github.io/Koala-Anuncio/**
+O site será publicado em: **https://veronicaskye.github.io/Koala-Anuncio/**
 
 O deploy está configurado para ocorrer automaticamente a cada atualização da branch `main`.
 Para ativar pela primeira vez, acesse **Settings > Pages** no GitHub e selecione **GitHub Actions** como fonte de publicação.
